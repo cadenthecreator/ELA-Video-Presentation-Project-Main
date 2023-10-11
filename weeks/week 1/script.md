@@ -8,5 +8,4 @@ Therefore this will be what this video is about.
 
 ### Details
 The course was an introduction to algebra in machine learning but mainly focused on linear algebra.
-I first learned about the basic consepts of linear algebra but moved on to 2*2 matricies.
-Then I was taught about NumPy its pretty cool but I havent used it at this point.
+I first learned about the basic concepts of linear algebra but moved on to 2*2 matricies then 3*3 matricies.
