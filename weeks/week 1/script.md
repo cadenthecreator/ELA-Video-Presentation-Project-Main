@@ -3,7 +3,7 @@ Hello, my name is Caden, the reason why I am making these, is because I want to 
 My goal for this is to get me through ELA so I don't have to read books all day.
 
 # What have I learned this week
-This week I finished a course about the introduction to the applications of algebra in machine learning.
+This week I i started on a course about the introduction to the applications of algebra in machine learning.
 Therefore this will be what this video is about.
 
 ### Details
