@@ -16,7 +16,7 @@ bird is blue. However, that's a very basic representation. Another one would be 
 you the same information, but you have to work for it. And that's basically the idea behind why this is a useful representation.
 
 ### Types of systems
-In the linear algebra, there are different types of systems. There are three main ones. There is a complete system, a redundant system, and a conflicting system. A complete system 
+In linear algebra, there are different types of systems. There are three main ones. There is a complete system, a redundant system, and a conflicting system. A complete system 
 gives you the same amount of information as there are lines. For example, the system, the dog is brown, the cat is orange, and the bird is blue, is a complete system. Because you get 
 three pieces of information with three lines. The system, the dog is brown, the cat is orange, and the dog is brown. It is a redundant system because you only get two pieces of 
 information for three lines. The system, the dog is brown, the dog is orange, is conflicting. Because the dog cannot be brown and orange at the same time.
