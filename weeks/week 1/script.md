@@ -13,7 +13,7 @@ Linear algebra is algebra except you use matrices to describe systems of equatio
 Systems of sentences is a metaphorical representation of the underlying concepts of systems of equations in linear algebra. In simple terms, it's making a few statements, and that's 
 it. For example, the cat is orange, the dog is brown, and the bird is blue. Thinking about this logically, the information you get is that the cat is orange, the dog is brown, and the 
 bird is blue. However, that's a very basic representation. Another one would be the cat is orange, the dog or the cat is brown, the dog or the cat or the bird is blue. That still gives 
-you the same information, but you have to work for it. And that's basically the idea behind why this is a useful representation.
+you the same information, but you have to work for it. And that's the idea behind why this is a useful representation.
 
 ### Types of systems
 In linear algebra, there are different types of systems. There are three main ones. There is a complete system, a redundant system, and a conflicting system. A complete system 
@@ -34,3 +34,11 @@ we buy one apple and two bananas. It costs us $14. We can conclude that the bana
 got one more banana. Therefore, we had an increase of $4 in the price, hence the $4 increase. That's how we would solve one of these. All the previous concepts apply here. Since we 
 have two lines and we're getting two pieces of information, A is equal to 6 and B is equal to 4, this is a complete system. And it is singular because we can solve it.
 
+### The Determinant
+The determinant is a property of matrices that you can use to determine if it is singular or non-singular. A singular matrix would have a determinant of zero and a non-singular matrix 
+would have a determinant of not zero. And how you calculate the determinant is the diagonal minus the anti-diagonal. For example, AD minus BC. That is the diagonal minus the anti-
+diagonal. So if you have 1,1,1,1, it would be  1 times 1 minus 1 times 1 or 1 minus 1, which would equal zero. But if you had 112, it would be 1 times 2 minus 1 times 1, which to take 
+away 1 is negative 1, which would mean that it is non-singular. So it is solvable. And that is a basic rundown of the determinant.
+
+# Conclusion
+I decided this was a good stopping point because I didn't think I needed to go further than this and I think it gave a decent amount of info.
