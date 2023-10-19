@@ -7,9 +7,6 @@ my goal. However, I set a baseline of 2 per month.
 This week I started on a course about the introduction to the applications of algebra in machine learning.
 Therefore this will be what this video is about. The course started with systems of sentences.
 
-### What is linear algebra?
-Linear algebra is algebra except you use matrices to describe systems of equations.
-
 ### What are systems of sentences?
 Systems of sentences is a metaphorical representation of the underlying concepts of systems of equations in linear algebra. In simple terms, it's making a few statements, and that's 
 it. For example, the cat is orange, the dog is brown, and the bird is blue. Thinking about this logically, the information you get is that the cat is orange, the dog is brown, and the 
